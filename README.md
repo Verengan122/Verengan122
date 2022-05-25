@@ -20,7 +20,6 @@ Graduate of https://qa.guru - QA Automation school
 ![Jenkins](images/icons/Jenkins.png)
 ![Rest-Assured](images/icons/Rest-Assured.png)
 ![Telegram](images/icons/Telegram.png)
-![Jira](images/icons/Jira.png)
 ![Lombok](images/icons/Lombok.png)
 
 ### My card in GitHub
